@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BasesKotlinAS</string>
+    <string name="bienvenido_a_fundamentos_de_android">Bienvenido a Fundamentos de Android</string>
+    <string name="un_bot_n">Un botón</string>
+</resources>
